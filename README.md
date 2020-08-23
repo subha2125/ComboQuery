@@ -8,4 +8,5 @@
 
 1.Sample Spring boot Apllication with Mysql to deploy in AWS Elastic Beanstalk
 2. DB Config not done it
+3. Add new branch >> aws
 
