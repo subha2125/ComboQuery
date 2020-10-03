@@ -9,10 +9,10 @@
 		<version>2.1.7.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ericsson.employee-details-service</groupId>
-	<artifactId>employee-details-service</artifactId>
+	<groupId>employee-details-service-aws-beanstalk</groupId>
+	<artifactId>employee-details-service-aws-beanstalk</artifactId>
 	<version>2.0.0-SNAPSHOT</version>
-	<name>employee-details-service</name>
+	<name>employee-details-service-aws-beanstalk</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
